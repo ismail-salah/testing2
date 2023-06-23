@@ -1,0 +1,14 @@
+{
+  "name": "task-2",
+  "version": "1.0.0",
+  "description": "jasmine",
+  "main": "lab2.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "ismail",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.0.2"
+  }
+}
